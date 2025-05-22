@@ -1,2 +1,0 @@
-# sword
-Sword of Truth
